@@ -1,0 +1,14 @@
+{
+  "AppVersion": "2.0.6.6",
+  "Title": "Shan Shui Inf",
+  "Thumbnail": null,
+  "Preview": null,
+  "Desc": "Procedurally generated Chinese landscape (new one on every load).",
+  "Author": "Lingdong Huang",
+  "License": "MIT",
+  "Contact": "https://github.com/LingDong-/shan-shui-inf",
+  "Type": 1,
+  "FileName": "index_wallpaper.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
